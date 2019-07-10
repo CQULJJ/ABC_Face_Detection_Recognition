@@ -1,0 +1,36 @@
+INFO:2019-07-05 10:52:46,718 -img_pre.py -ImgPre: ./test
+ERROR:2019-07-05 10:52:46,719 -img_pre.py -ERROR deform
+ERROR:2019-07-05 10:52:46,719 -img_pre.py -[Errno 13] Permission denied: './test'
+ERROR:2019-07-05 10:52:46,719 -img_pre.py -ERROR transpose
+ERROR:2019-07-05 10:52:46,719 -img_pre.py -[Errno 13] Permission denied: './test'
+ERROR:2019-07-05 10:52:46,719 -img_pre.py -ERROR rotate_15
+ERROR:2019-07-05 10:52:46,719 -img_pre.py -[Errno 13] Permission denied: './test'
+ERROR:2019-07-05 10:52:46,719 -img_pre.py -ERROR rotate_30
+ERROR:2019-07-05 10:52:46,719 -img_pre.py -[Errno 13] Permission denied: './test'
+ERROR:2019-07-05 10:52:46,720 -img_pre.py -ERROR crop
+ERROR:2019-07-05 10:52:46,720 -img_pre.py -[Errno 13] Permission denied: './test'
+ERROR:2019-07-05 10:52:46,726 -img_pre.py -ERROR lightness_1.07
+ERROR:2019-07-05 10:52:46,727 -img_pre.py -[Errno 13] Permission denied: './test'
+ERROR:2019-07-05 10:52:46,727 -img_pre.py -ERROR lightness_0.87
+ERROR:2019-07-05 10:52:46,727 -img_pre.py -[Errno 13] Permission denied: './test'
+INFO:2019-07-05 10:52:46,727 -img_pre.py -start_time: 2019-07-05 10:52:46.718160
+INFO:2019-07-05 10:52:46,727 -img_pre.py -end_time: 2019-07-05 10:52:46.727153
+INFO:2019-07-05 10:52:46,727 -img_pre.py -time_consume: 0.008993(s)
+INFO:2019-07-05 10:52:46,727 -img_pre.py -main finish
+INFO:2019-07-05 10:54:00,395 -img_pre.py -ImgPre: ./test/th.jpg
+INFO:2019-07-05 10:54:00,414 -img_pre.py -save:./preTest/deform_ww/deform_ww_201907051054003858.jpg
+INFO:2019-07-05 10:54:00,424 -img_pre.py -save:./preTest/deform_hh/deform_hh_201907051054003831.jpg
+INFO:2019-07-05 10:54:00,440 -img_pre.py -save:./preTest/transpose/transpose_201907051054009788.jpg
+INFO:2019-07-05 10:54:00,462 -img_pre.py -save:./preTest/rotate_15/rotate_15_201907051054005746.jpg
+INFO:2019-07-05 10:54:00,477 -img_pre.py -save:./preTest/rotate_30/rotate_30_201907051054007687.jpg
+INFO:2019-07-05 10:54:00,492 -img_pre.py -save:./preTest/crop_lu/crop_lu_201907051054001650.jpg
+INFO:2019-07-05 10:54:00,499 -img_pre.py -save:./preTest/crop_ld/crop_ld_201907051054009629.jpg
+INFO:2019-07-05 10:54:00,507 -img_pre.py -save:./preTest/crop_ru/crop_ru_201907051054007608.jpg
+INFO:2019-07-05 10:54:00,516 -img_pre.py -save:./preTest/crop_rd/crop_rd_201907051054006584.jpg
+INFO:2019-07-05 10:54:00,525 -img_pre.py -save:./preTest/crop_c/crop_c_201907051054004562.jpg
+INFO:2019-07-05 10:54:00,539 -img_pre.py -save:./preTest/lightness_1.07/lightness_1.07_201907051054008524.jpg
+INFO:2019-07-05 10:54:00,549 -img_pre.py -save:./preTest/lightness_0.87/lightness_0.87_201907051054009495.jpg
+INFO:2019-07-05 10:54:00,555 -img_pre.py -start_time: 2019-07-05 10:54:00.395915
+INFO:2019-07-05 10:54:00,555 -img_pre.py -end_time: 2019-07-05 10:54:00.555479
+INFO:2019-07-05 10:54:00,556 -img_pre.py -time_consume: 0.159564(s)
+INFO:2019-07-05 10:54:00,556 -img_pre.py -main finish
